@@ -2,7 +2,7 @@
 
 Welcome to the JDBC Tools project.
 
-**Attention:** If you obtained the source from a *development* branch be aware that such branch can contain unstable code.
+**Attention:** If you obtained the source from a *development* branch be aware that such branch can contain unstable and/or uncompilable code.
 
 ## Compiling
 
