@@ -2,7 +2,7 @@
 
 Welcome to the JDBC Tools project.
 
-**Attention:** If you obtained the source from a **snapshot** branch be aware that  such branch can contain unstable code.
+**Attention:** If you obtained the source from a *development* branch be aware that such branch can contain unstable code.
 
 ## Compiling
 
@@ -14,11 +14,11 @@ JDBC Tools project requires Java 7 compatible runtime and depends on the followi
 
 * Apache Commons DBCP
 
-(for detailed information on external dependencies please see pom.xml)
+For detailed information on external dependencies please see *pom.xml*.
 
 ## Licensing
 
-JDBC Tools project is licensed under the Apache License 2.0. See the files called LICENSE and NOTICE for more information.
+JDBC Tools project is licensed under the **Apache License 2.0**. See the files called *LICENSE* and *NOTICE* for more information.
 
 ## Contact
 
